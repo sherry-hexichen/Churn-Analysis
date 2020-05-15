@@ -14,3 +14,6 @@ Each dealership may have a different strategy in terms of selecting the target g
 Except for the probability of churn, the model also reported the features that contribute the most when predicting the likelihood. As these features may provide us with hints on why customers ended up deciding to leave the dealership, we conducted some preliminary analysis on the features and the predicted probability. 
 
 Two main recommendations were proposed to complement the Marketing Services branch: a customer score card for segmentation based on risk characteristics and a customer contact list for targeted campaigns of top risky customers. Future work entailed expanding the analysis to all Dealer-FX clients as well as further investigating churn via voluntary vs. involuntary churners where data was currently not available to pursue.
+
+**Great appreciation to my teammates, *Rachel Zhou* and *Khalid Askar***, who completed the project together with me. It was my pleasure to work with them.
+
